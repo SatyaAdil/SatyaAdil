@@ -1,6 +1,6 @@
 <!--Banner-->
 <!--![SatyaAdil Banner Image](./banner.png)-->
-[![baner-gif.gif](https://i.postimg.cc/1RDgKZYC/baner-gif.gif)](https://postimg.cc/QVxxXvD1)
+https://imgur.com/a/idRRohX
 
 <!--Night Owl image-->
 <div>
