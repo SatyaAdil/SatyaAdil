@@ -1,6 +1,6 @@
 <!--Banner-->
-<!--![SatyaAdil Banner Image](./banner.png)-->
-![Banner](https://github.com/SatyaAdil/SatyaAdil/raw/main/assets/56lDdUv.gif)
+![SatyaAdil Banner Image](./baner.png)
+
 
 
 
