@@ -108,18 +108,22 @@
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
   <a href="mailto:satyaadil24@gmail.com" target="_blank">
-    <img src="./gmail.png" width=50 height=50 alt="email" style="margin-bottom: 5px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Android_email_icon.png" width=50 height=50 alt="email" style="margin-bottom: 5px;" />
   </a>
   <a href="https://www.instagram.com/styadil/" target="_blank">
-    <img src="./instagram.png" width=50 height=50 alt="Instagram" style="margin-bottom: 5px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width=50 height=50 alt="Instagram" style="margin-bottom: 5px;" />
   </a>
   <a href="https://github.com/satyaadil" target="_blank">
-    <img src="./github.png" width=50 height=50 alt="GitHub" style="margin-bottom: 5px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Octicons-mark-github.svg" width=50 height=50 alt="GitHub" style="margin-bottom: 5px;" />
   </a>
   <a href="https://www.linkedin.com/in/satya-adil-faishal-0373b1332/" target="_blank">
-    <img src="./linkedin.png" width=50 height=50 alt="LinkedIn" style="margin-bottom: 5px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/LinkedIn_icon.svg" width=50 height=50 alt="LinkedIn" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.youtube.com/@satyaadil24" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width=50 height=50 alt="YouTube" style="margin-bottom: 5px;" />
   </a>
 </div>
+
 <br/>
 
 <!--Footer--> 
