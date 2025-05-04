@@ -1,6 +1,7 @@
 <!--Banner-->
 <!--![SatyaAdil Banner Image](./banner.png)-->
-![Banner](https://i.imgur.com/56lDdUv.gif)
+![Banner](https://github.com/SatyaAdil/SatyaAdil/raw/main/assets/56lDdUv.gif)
+
 
 
 
