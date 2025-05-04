@@ -1,6 +1,5 @@
 <!--Banner-->
-<!--![SatyaAdil Banner Image](./banner.png)-->
-https://imgur.com/a/idRRohX
+![SatyaAdil Banner Image](./banner.png)
 
 <!--Night Owl image-->
 <div>
